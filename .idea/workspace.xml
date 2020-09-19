@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278539d8-01fa-4622-9d72-0db1f8f1be4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="freemarker" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zhengzexiong/freemark-demo" />
+        <option value="https://github.com/zhengzexiong/zblog" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaz\repo" />
+        <option name="mavenHome" value="D:\ruanjian\idea\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\JAVA\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hj8i53vVcjnNVFryuPzrKWGLC1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestFreemarker">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFreemarker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="freemarker-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFreemarker" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFreemarker.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="freemarker-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFreemarker" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFreemarker" />
+        <item itemvalue="JUnit.TestFreemarker.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278539d8-01fa-4622-9d72-0db1f8f1be4c" name="Default Changelist" comment="" />
+      <created>1600513266358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600513266358</updated>
+      <workItem from="1600513267919" duration="902000" />
+      <workItem from="1600514202689" duration="6685000" />
+      <workItem from="1600534692812" duration="2493000" />
+    </task>
+    <task id="LOCAL-00001" summary="freemark工具类">
+      <created>1600535017075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535017075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="freemark-demo01pom单">
+      <created>1600535038135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535038135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="freemark-demo01测试类">
+      <created>1600535047429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535047429</updated>
+    </task>
+    <task id="LOCAL-00004" summary="排除文件">
+      <created>1600535078239</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535078239</updated>
+    </task>
+    <task id="LOCAL-00005" summary="模板">
+      <created>1600535098670</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535098670</updated>
+    </task>
+    <task id="LOCAL-00006" summary="根据模板和数据生成的静态页面">
+      <created>1600535116127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535116127</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="freemark工具类" />
+    <MESSAGE value="freemark-demo01pom单" />
+    <MESSAGE value="freemark-demo01测试类" />
+    <MESSAGE value="排除文件" />
+    <MESSAGE value="模板" />
+    <MESSAGE value="根据模板和数据生成的静态页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="根据模板和数据生成的静态页面" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1600514457917">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600514457917" />
+    <state x="271" y="80" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1600514296887">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="271" y="80" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600514296887" />
+    <state x="421" y="141" key="FileChooserDialogImpl" timestamp="1600532711458">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="421" y="141" key="FileChooserDialogImpl/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600532711458" />
+    <state width="1238" height="252" key="GridCell.Tab.0.bottom" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.0.center" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.0.center/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.0.left" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.0.left/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.0.right" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.0.right/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.1.bottom" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.1.center" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.1.center/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.1.left" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.1.left/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state width="1238" height="252" key="GridCell.Tab.1.right" timestamp="1600534676338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="252" key="GridCell.Tab.1.right/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600534676338" />
+    <state x="413" y="101" key="RollbackChangesDialog" timestamp="1600513664369">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="413" y="101" key="RollbackChangesDialog/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600513664369" />
+    <state x="142" y="44" key="SettingsEditor" timestamp="1600537303263">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="142" y="44" key="SettingsEditor/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600537303263" />
+    <state x="233" y="133" key="Vcs.Push.Dialog.v2" timestamp="1600536817764">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="233" y="133" key="Vcs.Push.Dialog.v2/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600536817764" />
+    <state x="448" y="313" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600537509604">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="448" y="313" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800/2560.0.1080.1920@0.0.1280.800" timestamp="1600537509604" />
+  </component>
+</project>
